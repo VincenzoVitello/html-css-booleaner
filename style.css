@@ -2,7 +2,9 @@
 background-image: url(pattern.png);
 background-color:#4da6ff;
 padding: 20px;
-background-size: contain;
+padding-left: 7%;
+background-size: 400px;
+
 }
 .logo{
     max-height: 150px;
@@ -10,6 +12,12 @@ background-size: contain;
 }
 .highlighter{
 background-color: yellow;
+}
+.thebooleaner{
+    color: #1ad1ff;
+}
+.headline{
+    color:#999999;
 }
 main{
     padding-right: 7%;
@@ -25,9 +33,27 @@ footer{
 }
 .footer{
     background-image: url(img/monitor.jpg);
-   
+    height: 200px;
+    width: 300px;
+    color: white;
     
 }
 .footer2{
     background-image: url(img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    color: white;
+}
+.headlist{
+    color: white;
+    background-color:  #1ab2ff;
+}
+table td{
+    min-width: 300px;
+}
+.color{
+    background-color: #99ddff;
+}
+.headlinetext{
+    margin-top: 0px;
 }
