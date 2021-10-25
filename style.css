@@ -8,3 +8,13 @@ background-size: contain;
     max-height: 150px;
     max-width: 200px;
 }
+.highlighter{
+background-color: yellow;
+}
+main{
+    padding-right: 7%;
+    padding-left: 7%;
+}
+#bigtitle{
+    font-size: 45px;
+}
