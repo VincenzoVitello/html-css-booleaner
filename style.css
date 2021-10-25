@@ -1,0 +1,10 @@
+.pattern{
+background-image: url(pattern.png);
+background-color:#4da6ff;
+padding: 20px;
+background-size: contain;
+}
+.logo{
+    max-height: 150px;
+    max-width: 200px;
+}
